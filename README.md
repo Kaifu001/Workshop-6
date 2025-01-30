@@ -20,4 +20,4 @@ Used the text() function in the draw() loop to ensure the updated poem is shown 
 
 Further Development Ideas:
 Allow the user to input their own poem or lines.
-Add more complex transformations, such as altering sentence structure or word order.
+Add more complex transformations, such as altering sentence structure or word order. 
